@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+}
+img{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 400;
+    border-radius: 60%;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;   
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+}
+ol{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    border: 3px solid;
+    margin: auto;
+    width: 9em;
+    background-color: orangered
+}
+ul{
+text-align: center;
+font-size: 20px;
+font-weight: 100;
+border: 3px solid;
+margin: auto;
+width: 10em;
+background-color: palevioletred;
+
+}
+
+
